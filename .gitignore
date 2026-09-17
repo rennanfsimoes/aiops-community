@@ -1,0 +1,14 @@
+# Ambientes & Dependências
+node_modules/
+dist/
+build/
+.terraform/
+*.tfstate
+*.tfstate.*
+.env
+.env.local
+*.log
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
