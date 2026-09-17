@@ -9,7 +9,7 @@
 
 ---
 
-## 🤖 Features
+##  Features
 
 - **Root Cause Analysis (RCA) Agent**: Automatically correlates anomalous Kubernetes pods, high memory spikes, and error logs into human-readable triage reports.
 - **Metric Stream Anomaly Detection**: Unsupervised time-series anomaly detection on Prometheus telemetry data.
@@ -18,7 +18,7 @@
 
 ---
 
-## 🏗️ Architecture
+##  Architecture
 
 ```
                        ┌──────────────────────┐
@@ -48,7 +48,7 @@
 
 ---
 
-## 📦 Quickstart
+##  Quickstart
 
 ```bash
 # Clone the repository
@@ -64,5 +64,5 @@ python src/agent/anomaly_detector.py --prometheus-url http://localhost:9090
 
 ---
 
-## 📜 License
+##  License
 MIT License - Copyright (c) 2025-2026 Rennan Simões.
